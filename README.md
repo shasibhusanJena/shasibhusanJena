@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
+
 **shasibhusanJena/shasibhusanJena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on  Adobe AEP Product Integration and do provide solutions to some of the Streaming options like kafka, Apache Kinesis , we use Power BI for reporting of the regular data feed
+- 🌱 I’m currently learning Java trasaction and other modules and related technology implementation and Design pattern implementation on real life
+- 👯 I’m looking to collaborate on above technologies 
+- 🤔 I’m looking for help with like minded discission on the tech world and upcoming changes
+- 💬 Ask me about Java, Kafka and Power BI
+- 📫 How to reach me:  linkedin.com/in/shasibhusan-jena-4ab417177
+- 😄 Pronouns: Mr
+- ⚡ Fun fact: i know how to find time for Table tennis during working hour 😄
+
