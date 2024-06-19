@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on  Adobe AEP Product Integration and do provide solutions to some of the Streaming options like kafka, Apache Kinesis , we use Power BI for reporting of the regular data feed
+- 🔭 I’m currently working on  Adobe AEP Product and do provide solutions to some of the Streaming options like kafka, Apache Kinesis , we use Power BI for reporting of the regular data feed
 - 🌱 I’m currently learning AWS and other components
 - 👯 I’m looking to collaborate on above technologies 
 - 🤔 I’m looking for help with like minded discission on the tech world and upcoming changes
